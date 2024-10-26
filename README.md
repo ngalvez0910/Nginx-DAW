@@ -96,6 +96,7 @@ En el puerto 443:
 11.	ErrorDocument 500 /error/error500.html: especifica una página personalizada para errores 500.
 
 <img src="imgs/seguro2-conf.png">
+<img src="imgs/seguro3-conf.png">
  
 Creamos la estructura básica del sitio web para seguro.com en la carpeta websites. Cuenta con una página principal (index.html) que los usuarios verán al ingresar al dominio, y una página personalizada de error 404 (error404.html), error 401 (error401.html), error 403 (error403.html) y error 500 (error500.html). Aparte, cuenta con una página única para usuarios aptos
  
